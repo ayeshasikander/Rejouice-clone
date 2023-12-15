@@ -17,7 +17,7 @@ This project is a simple web page clone of Rejouice, featuring smooth sliding ef
 
 ## Demo
 
-You can check out the live demo [here](#) (replace with your deployed link).
+You can check out the live demo [here](https://rejouice-clone.netlify.app/) (Deployed link).
 
 ## Features
 
